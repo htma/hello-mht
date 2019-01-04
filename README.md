@@ -1,4 +1,5 @@
 #Start a new repository and public it to GitHub by cmd line.
+
 // create a new directory, and initialize it with git-specific functions
 git init my-repo
 
